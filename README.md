@@ -12,10 +12,10 @@
 
 BCA student passionate about AI, software development, research, and thoughtful design. Currently learning by building projects and exploring new technologies.
 
-🔭 &nbsp;I'm currently working on **Building my portfolio and personal projects**  
+🔭 &nbsp;I'm currently working on **building my portfolio and personal projects**  
 🌱 &nbsp;I'm currently learning **Flutter, Python, AI/ML, Git &amp; Open Source**  
-👯 &nbsp;I'm looking to collaborate on **Beginner-friendly open-source projects and student hackathons**  
-💬 &nbsp;Ask me about **Tech, design, or project ideas**  
+👯 &nbsp;I'm looking to collaborate on **beginner-friendly open-source projects and student hackathons**  
+💬 &nbsp;Ask me about **tech, design, or project ideas**  
 😄 &nbsp;Pronouns: **she/her**  
 ⚡ &nbsp;Fun fact: **I probably have more project ideas than finished repositories**
 
